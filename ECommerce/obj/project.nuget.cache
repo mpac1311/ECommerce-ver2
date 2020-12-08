@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "39yd9B/uNUBu+jGX/GkLILfoDvnhUVIiOZ9TPfuLIcE/CbYo8zscRFKrVdoOoQJ5ok6q3+XafSsE9GDEkZLekw==",
+  "dgSpecHash": "/h1iu/ZZphhVzT075ubEOQzDY1osUbUMwYWqldBZk0+t9Be65WM7ruY04w7YI2qAVEtJecHFy8l0MFncrCX0Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+  "projectFilePath": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CAKE\\.nuget\\packages\\bootstrap\\4.5.3\\bootstrap.4.5.3.nupkg.sha512",
     "C:\\Users\\CAKE\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

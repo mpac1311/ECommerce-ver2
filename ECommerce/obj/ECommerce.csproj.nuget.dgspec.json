@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
+    "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
+    "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
         "projectName": "ECommerce",
-        "projectPath": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "projectPath": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
         "packagesPath": "C:\\Users\\CAKE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\obj\\",
+        "outputPath": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
