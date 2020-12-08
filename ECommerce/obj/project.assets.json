@@ -10584,19 +10584,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+    "C:\\Users\\CAKE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\OneDrive\\Máy tính\\E-Commerce-master\\ECommerce\\ECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
       "projectName": "ECommerce",
-      "projectPath": "C:\\Users\\ACER\\OneDrive\\Máy tính\\E-Commerce-master\\ECommerce\\ECommerce.csproj",
-      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\OneDrive\\Máy tính\\E-Commerce-master\\ECommerce\\obj\\",
+      "projectPath": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+      "packagesPath": "C:\\Users\\CAKE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CAKE\\Downloads\\ECommerce-ver2\\ECommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -79,7 +79,7 @@
                                 <div class="product">
                                     <div class="image">
                                         <a asp-controller="Sanpham" asp-action="Details" asp-route-id="@item.MaSP"
-                                           asp-route-name="@item.TenSP"><img src="~/image/@item.HinhAnh" /></a>
+                                           asp-route-name="@item.TenSP"><img class="img-edit" src="~/image/@item.HinhAnh" /></a>
                                     </div>
                                     <div class="buttons">
                                         <a class="btn cart" asp-controller="Cart" asp-action="Buy" asp-route-id="@item.MaSP"><span class="glyphicon glyphicon-shopping-cart"></span></a>
@@ -90,10 +90,7 @@
                                     </div>
                                 </div>
                             </div>
-
-
                         }
-
                     </div>
                     <div class="row">
                         <div class="banner">
