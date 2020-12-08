@@ -11,15 +11,16 @@
 
     @using (Html.BeginForm("Search", "SanPhams", FormMethod.Get))
     {<!-- Topbar Search -->
-                <form class="form-inline ml-auto">
-                    <div class="input-group">
+                        <form class="form-inline ml-auto">
+                            <div class="input-group">
 
-                        @Html.TextBox("search")
-                        <div class="input-group-append">
-                            <button type="submit" class="btn btn-danger">Search</button>
-                        </div>
-                    </div>
-                </form>}
+                                @Html.TextBox("search")
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-danger">Search</button>
+                                </div>
+                            </div>
+                        </form>
+}
 </ul>
 <p>
     <a asp-action="Create">Create New</a>

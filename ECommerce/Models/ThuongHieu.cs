@@ -10,7 +10,9 @@ namespace ECommerce.Models
     {
         [Key]
         public int MaTH { get; set; }
+        [Display(Name = "Tên Thương Hiệu")]
         public string TenTH { get; set; }
+        [Display(Name = "Mô tả")]
         public string Mota { get; set; }
         public List<SanPham> sanPhams { get; set; }
     }
