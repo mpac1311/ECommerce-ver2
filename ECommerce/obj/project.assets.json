@@ -10584,19 +10584,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CAKE\\.nuget\\packages\\": {}
+    "C:\\Users\\Mi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
       "projectName": "ECommerce",
-      "projectPath": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
-      "packagesPath": "C:\\Users\\CAKE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CAKE\\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\\Desktop\\ECommerce-ver2\\ECommerce\\obj\\",
+      "projectPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+      "packagesPath": "C:\\Users\\Mi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\CAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10608,7 +10612,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -10620,7 +10623,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Castle.Core": {
             "target": "Package",
@@ -10705,7 +10707,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
