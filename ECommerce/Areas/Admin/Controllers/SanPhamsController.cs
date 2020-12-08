@@ -18,7 +18,17 @@ namespace ECommerce.Areas.Admin.Controllers
     public class SanPhamsController : Controller
     {
         private readonly DataContext _context;
+        public async Task<IActionResult> Search(string search)
+        {
+            var searchproduct = from x in _context.SanPhams
+                                select x;
+            if (!String.IsNullOrEmpty(search))
+            {
+                searchproduct = searchproduct.Where(x => x.TenSP.Contains(search)).Include(m => m.Loai).Include(m => m.NhaCungCap).Include(m => m.ThuongHieu);
+            }
 
+            return View(searchproduct.ToList());
+        }
         public SanPhamsController(DataContext context)
         {
             _context = context;

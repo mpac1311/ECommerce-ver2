@@ -44,7 +44,7 @@ namespace ECommerce.Areas.Admin.Pages.Role
         {
 
             var cuser = await _userManager.GetUserAsync(User);
-            await _userManager.AddToRolesAsync(cuser, new string[] { "Editor" });
+            await _userManager.AddToRolesAsync(cuser, new string[] { "Visitor" });
 
             if (pageNumber == 0)
                 pageNumber = 1;

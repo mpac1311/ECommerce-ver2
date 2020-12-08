@@ -46,14 +46,17 @@ namespace ECommerce.Areas.Identity.Pages.Account
 
         public class InputModel
         {
-             [Display(Name = "First Name")] 
+            [Display(Name = "First Name")] 
             public string FirstName { get; set; }
             [Display(Name = "Last Name")]
             public string LastName { get; set; }
 
             [Display(Name = "Birthday")]
             public DateTime BirthDay { get; set; }
-        
+
+            [Display(Name = "Address")]
+            public string Address { get; set; }
+
             [Required]
             [EmailAddress]
             [Display(Name = "Your Email")]
@@ -86,11 +89,12 @@ namespace ECommerce.Areas.Identity.Pages.Account
                
                 var user = new ApplicationUser
                 { 
-                    UserName = Input.Email,
-                    Email = Input.Email,
+                   UserName = Input.Email,
+                   Email = Input.Email,
                    FirstName=Input.FirstName,
                    LastName=Input.LastName,
-                   BirthDay=Input.BirthDay
+                   BirthDay=Input.BirthDay,
+                   Address=Input.Address,
                 };
                 var result = await _userManager.CreateAsync(user, Input.Password);
 

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerce.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20201208064222_intial")]
-    partial class intial
+    [Migration("20201208114037_address")]
+    partial class address
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -46,6 +46,9 @@ namespace ECommerce.Migrations
 
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
+
+                    b.Property<string>("Address")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("BirthDay")
                         .HasColumnType("datetime2");
@@ -458,15 +461,15 @@ namespace ECommerce.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "39324423-eeb6-4012-8f15-49f7a2e2c62d",
-                            ConcurrencyStamp = "d3243824-9327-46d5-b0e3-327946261a64",
+                            Id = "473c387b-7e20-4a1b-8133-acf60c910946",
+                            ConcurrencyStamp = "82306a33-f428-4ec4-8f42-d88ae852f1d1",
                             Name = "Visitor",
                             NormalizedName = "VISITOR"
                         },
                         new
                         {
-                            Id = "9f920db1-c477-437a-8bfc-652772d764b9",
-                            ConcurrencyStamp = "e92b4706-feaa-40a8-bc9f-1ae35c178cc6",
+                            Id = "3408ebe7-04ea-4ddb-8a2d-5c1603918de4",
+                            ConcurrencyStamp = "61f93b74-d9c6-4970-ae60-2cec73709b7a",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });
