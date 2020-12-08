@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ECommerce.Migrations
 {
-    public partial class intial : Migration
+    public partial class address : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -29,6 +29,7 @@ namespace ECommerce.Migrations
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BirthDay = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Address = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -421,12 +422,12 @@ namespace ECommerce.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "39324423-eeb6-4012-8f15-49f7a2e2c62d", "d3243824-9327-46d5-b0e3-327946261a64", "Visitor", "VISITOR" });
+                values: new object[] { "473c387b-7e20-4a1b-8133-acf60c910946", "82306a33-f428-4ec4-8f42-d88ae852f1d1", "Visitor", "VISITOR" });
 
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "9f920db1-c477-437a-8bfc-652772d764b9", "e92b4706-feaa-40a8-bc9f-1ae35c178cc6", "Administrator", "ADMINISTRATOR" });
+                values: new object[] { "3408ebe7-04ea-4ddb-8a2d-5c1603918de4", "61f93b74-d9c6-4970-ae60-2cec73709b7a", "Administrator", "ADMINISTRATOR" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",

@@ -1440,3 +1440,5 @@ D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplet
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
+D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Delete.cshtml.g.cs
+D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Index.cshtml.g.cs
