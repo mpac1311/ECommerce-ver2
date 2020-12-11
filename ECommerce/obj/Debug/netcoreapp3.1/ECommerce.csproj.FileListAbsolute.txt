@@ -1,1454 +1,259 @@
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-E:\ECommerce\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-E:\ECommerce\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.styles.css
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ACER\OneDrive\Máy tính\E-Commerce-master\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.styles.css
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\CAKE\Downloads\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Index.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_StatusMessage.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewImports.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewStart.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Add.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\AddUserRole.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Delete.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\User.cshtml.g.cs
-<<<<<<< HEAD
-<<<<<<< HEAD
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Shared\_Paging.cshtml.g.cs
-=======
-=======
->>>>>>> 0d56e3b86e9638e4e3799756697b51aefa363c45
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Castle.Core.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.styles.css
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Add.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\AddUserRole.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\User.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_StatusMessage.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewStart.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Search.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Delete.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Index.cshtml.g.cs
-<<<<<<< HEAD
->>>>>>> 0d56e3b86e9638e4e3799756697b51aefa363c45
-=======
->>>>>>> 0d56e3b86e9638e4e3799756697b51aefa363c45
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.StaticWebAssets.xml
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.Views.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorAssemblyInfo.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.input.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.TagHelpers.output.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorCoreGenerate.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Add.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\AddUserRole.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\User.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_StatusMessage.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Role\_ViewStart.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Shared\_Paging.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\DonHangs\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ManageUser\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\NhaCungCaps\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\Search.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ThuongHieux\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Create.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Delete.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Checkout.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Null.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Cart\Success.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Details.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Iphone.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SamSung.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\Search.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_Layout.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ValidationScriptsPartial.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\_ViewStart.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangChiTietSanPham.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangGioHang.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\TrangSanPham.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.RazorTargetAssemblyInfo.cs
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.Views.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CopyComplete
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.Manifest.cache
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.StaticWebAssets.xml
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+D:\down\tmdt\project\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache

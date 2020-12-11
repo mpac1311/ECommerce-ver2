@@ -1,58 +1,127 @@
 @model List<ECommerce.Data.ProductToCart>
 @{ ViewData["Title"] = "Cart";
-                Layout = "~/Areas/Users/Views/_Layout.cshtml"; }
+    Layout = "~/Areas/Users/Views/_Layout.cshtml"; }
 
-<div class="row">
-    <div class="col-lg-12">
-        <ul class="breadcrumb">
-            <li><a asp-action="Index" asp-controller="Product">Trang Chủ</a></li>
-            <li><a asp-action="Index" asp-controller="Cart"></a>Gio hàng</li>
-        </ul>
-    </div>
-</div>
-@if (ViewBag.Cart.Count > 0)
-{
-    decimal total = 0;
-<div class="row">
-    Tong sp: @ViewBag.Cart.Count
-</div>
-<table class="table-bordered table">
-    <tr>
-
-        <th>Name</th>
-        <th>Photo</th>
-        <th>Price</th>
-        <th>Quantity</th>
-        <th>Sub Total</th>
-        <th>Option</th>
-    </tr>
-    @foreach (var item in ViewBag.Cart)
+@*@if (ViewBag.Cart.Count > 0)
     {
-        var thanhtien = item.Quantity * item.SanPham.DonGia;
-        total += thanhtien;
-<tr>
-    <td>@item.SanPham.TenSP</td>
-    <td><img src="~/image/@item.SanPham.HinhAnh" width="60" height="60"></td>
-    <td>@item.SanPham.DonGia</td>
-    <td>@item.Quantity</td>
-    <td>@(item.SanPham.DonGia * item.Quantity)</td>
-    <td><a asp-controller="cart" asp-action="remove" asp-route-id="@item.SanPham.MaSP">Remove</a></td>
-</tr>}
+        decimal total = 0;
+        <div class="row">
+            Tong sp: @ViewBag.Cart.Count
+        </div>
+        <table class="table-bordered table">
+            <tr>
 
-    <tr>
-        <td align="right" colspan="6">Sum</td>
-        <td>
-            total
-        </td>
-    </tr>
-</table>
-<a asp-area="Admin" asp-controller="DonHangs" asp-action="Create" class="btn btn-success">Thanh toán</a>
-}
-else
-{
-    <p class="alert alert-danger">Giỏ hàng trống</p>
-}
+                <th>Name</th>
+                <th>Photo</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Sub Total</th>
+                <th>Option</th>
+            </tr>
+            @foreach (var item in ViewBag.Cart)
+            {
+                var thanhtien = item.Quantity * item.SanPham.DonGia;
+                total += thanhtien;
+                <tr>
+                    <td>@item.SanPham.TenSP</td>
+                    <td><img src="~/image/@item.SanPham.HinhAnh" width="60" height="60"></td>
+                    <td>@item.SanPham.DonGia</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.SanPham.DonGia * item.Quantity</td>
+                    <td><a asp-controller="cart" asp-action="remove" asp-route-id="@item.SanPham.MaSP">Remove</a></td>
+                </tr>
+            }
+
+            <tr>
+                <td align="right" colspan="6">Sum</td>
+                <td>
+                    Tổng Cộng: @total
+                </td>
+            </tr>
+        </table>
+        <a asp-area="Admin" asp-controller="DonHangs" asp-action="Create" class="btn btn-success">Thanh toán</a>
+    }
+    else
+    {
+        <p class="alert alert-danger">Giỏ hàng trống</p>
+    }*@
 
 
-<br>
-<a asp-controller="SanPham" asp-action="Index">Continue Shopping</a>
+@*<br>
+    <a asp-controller="SanPham" asp-action="Index">Continue Shopping</a>*@
+<div class="row">
+        <div class="col-lg-12">
+            <ul class="breadcrumb">
+                <li><a asp-action="Index" asp-controller="Product">Trang Chủ</a></li>
+                <li><a asp-action="Index" asp-controller="Cart"></a>Giỏ hàng</li>
+            </ul>
+        </div>
+</div>
+<div id="page-content" class="single-page">
+    <div class="container">
+        @if (ViewBag.Cart.Count > 0)
+        {
+            decimal total = 0;
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="breadcrumb">
+                        Tổng Sản Phẩm : @ViewBag.Cart.Count
+                    </ul>
+                </div>
+            </div>
+            @foreach (var item in ViewBag.Cart)
+            {
+                var thanhtien = item.Quantity * item.SanPham.DonGia;
+                total += thanhtien;
+                <div class="row">
+                    <div class="product well">
+                        <div class="col-md-3">
+                            <div class="image">
+                                <img src="~/image/@item.SanPham.HinhAnh">
+                            </div>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="caption">
+                                <div class="name"><h3>Tên Sản Phẩm: <a href="#">@item.SanPham.TenSP</a></h3></div>
+                                <div class="price">Giá Tiền: @item.SanPham.DonGia</div>
+                                <label>Số Lượng: </label> <input class="form-inline quantity" type="text" value="@item.Quantity">
+                            </div>
+                            <a class="btn btn-danger pull-left" asp-controller="cart" asp-action="remove" asp-route-id="@item.SanPham.MaSP">Remove</a>
+                        </div>
+                    </div>
+                </div>
+            }
+            <div class="row">
+                <div class="col-md-4 col-md-offset-8 ">
+                    <center><a asp-controller="SanPham" asp-action="Index" class="btn btn-1">Tiếp Tục Mua Sắm</a></center>
+                </div>
+            </div>
+            <div class="row">
+                <div class="pricedetails">
+                    <div class="col-md-4 col-md-offset-8">
+                        <h3 >Hóa Đơn</h3>
+                        <table>
+                            <tr>
+                                <td><h6>Tạm Tín</h6></td>
+                                <td><h6>@total</h6></td>
+                            </tr>
+                            <tr>
+                                <td><h6>Phí Vận Chuyển</h6></td>
+                                <td><h6>0.00vnđ</h6></td>
+                            </tr>
+                            <tr style="border-top: 1px solid #333">
+                                <td><h5>Tổng Cộng</h5></td>
+                                <td><h5>@total</h5></td>
+                        </table>
+                        <br />
+                        <center><a asp-area="Admin" asp-controller="DonHangs" asp-action="Create" class="btn btn-1">Thanh toán</a></center>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <p class="alert alert-danger">Giỏ hàng trống</p>
+        }
+        </div>
+</div>

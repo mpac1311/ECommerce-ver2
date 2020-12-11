@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
+    "D:\\down\\tmdt\\project\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
   },
   "projects": {
-    "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
+    "D:\\down\\tmdt\\project\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "projectUniqueName": "D:\\down\\tmdt\\project\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
         "projectName": "ECommerce",
-        "projectPath": "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\ECommerce-ver2\\ECommerce\\obj\\",
+        "projectPath": "D:\\down\\tmdt\\project\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "packagesPath": "C:\\Users\\CAKE\\.nuget\\packages\\",
+        "outputPath": "D:\\down\\tmdt\\project\\ECommerce-ver2\\ECommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Castle.Core": {
               "target": "Package",
@@ -123,7 +121,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
