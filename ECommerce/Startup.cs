@@ -105,13 +105,14 @@ namespace ECommerce
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapAreaControllerRoute(
+             name: "MyArea",
+             areaName: "Users",
+             pattern: "{area:exists}/{controller=SanPham}/{action=Index}/{id?}");
+                endpoints.MapAreaControllerRoute(
                     name: "MyArea",
                     areaName: "Admin",
                     pattern: "{area:exists}/{controller=SanPhams}/{action=Index}/{id?}");
-                endpoints.MapAreaControllerRoute(
-                   name: "MyArea",
-                   areaName: "Users",
-                   pattern: "{area:exists}/{controller=SanPham}/{action=Index}/{id?}");
+          
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

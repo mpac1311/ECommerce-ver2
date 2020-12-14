@@ -97,10 +97,9 @@ namespace ECommerce.Areas.Admin.Controllers
                 ViewData["MaTH"] = new SelectList(_context.ThuongHieus, "MaTH", "MaTH", sanPham.MaTH);
                 _context.Add(sanPham);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index","SanPhams");
             }
-            else 
-            return View(sanPham);
+            else return View(sanPham);
         }
 
         // GET: Admin/SanPhams/Edit/5

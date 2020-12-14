@@ -26,7 +26,7 @@ namespace ECommerce.Areas.Users.Controllers
                 searchSP = searchSP.Where(x => x.TenSP.Contains(search));
             }
 
-            return View(searchSP.ToList());
+            return View(searchSP);
         }
         public ActionResult Iphone()
         {

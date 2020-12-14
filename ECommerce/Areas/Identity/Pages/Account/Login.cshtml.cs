@@ -89,7 +89,7 @@ namespace ECommerce.Areas.Identity.Pages.Account
                     if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+                    return LocalRedirect("/Users/SanPham/Index");
                 }
                 if (result.RequiresTwoFactor)
                 {

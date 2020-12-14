@@ -54,7 +54,7 @@
                 <div class="col-md-4">
                     <div id="logo"><img src="~/User/images/logodaiphatmobile.png" /></div>
                 </div>
-                @using (Html.BeginForm("Search", "Product", FormMethod.Get))
+                @using (Html.BeginForm("Search", "SanPham", FormMethod.Get))
                 {
                     <div class="col-md-4">
 
@@ -66,7 +66,7 @@
                     </div>
                 }
                 <div class="col-md-4">
-                    <div id="cart"><a class="btn btn-1" asp-controller="Cart" asp-action="Index"><span class="glyphicon glyphicon-shopping-cart"></span>CART</a></div>
+                    <div id="cart"><a class="btn btn-1" asp-controller="Cart" asp-action="Null"><span class="glyphicon glyphicon-shopping-cart"></span>CART</a></div>
                 </div>
             </div>
         </header>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a asp-controller="SanPham" asp-action="Index">Trang Chủ</a></li>
+                        <li><a asp-area="Users" asp-controller="SanPham" asp-action="Index">Trang Chủ</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tablet</a>
                             <div class="dropdown-menu">

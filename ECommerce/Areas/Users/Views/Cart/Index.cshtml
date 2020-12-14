@@ -49,14 +49,6 @@
 
 @*<br>
     <a asp-controller="SanPham" asp-action="Index">Continue Shopping</a>*@
-<div class="row">
-        <div class="col-lg-12">
-            <ul class="breadcrumb">
-                <li><a asp-action="Index" asp-controller="Product">Trang Chủ</a></li>
-                <li><a asp-action="Index" asp-controller="Cart"></a>Giỏ hàng</li>
-            </ul>
-        </div>
-</div>
 <div id="page-content" class="single-page">
     <div class="container">
         @if (ViewBag.Cart.Count > 0)
