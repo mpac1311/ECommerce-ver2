@@ -24,8 +24,7 @@ namespace ECommerce.Models
         public string SoDienThoai { get; set; }
 
         public string Email { get; set; }
-        [ForeignKey("Trang thai DH")]
-        [DefaultValue(0)]
+        [ForeignKey("DonHang")]
         [Display(Name = "Mã Tình Trạng")]
         public int MaTT { get; set; }
         public TinhTrangDH TinhTrangDH { get; set; }

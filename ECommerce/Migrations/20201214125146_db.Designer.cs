@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerce.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20201214085344_initial")]
-    partial class initial
+    [Migration("20201214125146_db")]
+    partial class db
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -461,15 +461,15 @@ namespace ECommerce.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "7be6a38f-a7e5-450f-b053-04a26578114f",
-                            ConcurrencyStamp = "3f28b4b8-acc2-44fa-a181-0dd12aa919cc",
+                            Id = "0b8bec6b-953e-42dd-93f5-02fba3b5de1f",
+                            ConcurrencyStamp = "cb3d5196-a627-4eb4-a1e0-7025f4609028",
                             Name = "Visitor",
                             NormalizedName = "VISITOR"
                         },
                         new
                         {
-                            Id = "038582e1-99e0-435d-9e06-7d8123d38d93",
-                            ConcurrencyStamp = "921206d3-0573-45cf-aad7-38ef26fc7c76",
+                            Id = "d203f610-0897-446f-bcbe-49da46c02c4d",
+                            ConcurrencyStamp = "97cd638c-99b9-40c7-b5a6-339027d915ad",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });

@@ -1,19 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using ECommerce.Areas.Identity.Models;
+using ECommerce.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using ECommerce.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Mvc.Razor;
-using Microsoft.AspNetCore.Identity;
-using ECommerce.Areas.Identity.Models;
-using Microsoft.AspNetCore.Http.Features;
+using System;
 
 namespace ECommerce
 {
@@ -105,19 +99,15 @@ namespace ECommerce
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapAreaControllerRoute(
-             name: "MyArea",
-             areaName: "Users",
-             pattern: "{area:exists}/{controller=SanPham}/{action=Index}/{id?}");
+                     name: "MyArea1",
+                     areaName: "Users",
+                     pattern: "{area:exists}/{controller=SanPham}/{action=Index}/{id?}");
                 endpoints.MapAreaControllerRoute(
                     name: "MyArea",
                     areaName: "Admin",
                     pattern: "{area:exists}/{controller=SanPhams}/{action=Index}/{id?}");
-          
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
-              
-                
+   
+                      
             });
         }
     }

@@ -474,7 +474,6 @@ D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Tinh
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
@@ -1036,3 +1035,5 @@ D:\down\BaiTH91\Thư mục mới\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3
 D:\down\BaiTH91\Thư mục mới\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
 D:\down\BaiTH91\Thư mục mới\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletApple.cshtml.g.cs
 D:\down\BaiTH91\Thư mục mới\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletSamSung.cshtml.g.cs
+D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletApple.cshtml.g.cs
+D:\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletSamSung.cshtml.g.cs

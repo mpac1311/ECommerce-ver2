@@ -13,8 +13,9 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace ECommerce.Areas.Admin.Controllers
 {
-    [Authorize(Roles = "Administrator")]
+ 
     [Area("Admin")]
+    [Authorize(Roles = "Administrator")]
     public class SanPhamsController : Controller
     {
         private readonly DataContext _context;
