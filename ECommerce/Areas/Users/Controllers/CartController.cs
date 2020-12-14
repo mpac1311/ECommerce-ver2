@@ -29,7 +29,7 @@ namespace ECommerce.Areas.Users.Controllers
         {
             var cart = SessionHelper.GetObjectFromJson<List<ProductToCart>>(HttpContext.Session, "cart");
             ViewBag.cart = cart;
-            return View();
+            return View(cart);
         }
         [Route("buy/{id}")]
         public IActionResult Buy(int id)
