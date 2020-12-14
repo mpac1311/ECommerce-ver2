@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
+    "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {}
   },
   "projects": {
-    "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
+    "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "projectUniqueName": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
         "projectName": "ECommerce",
-        "projectPath": "D:\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\ECommerce-ver2\\ECommerce\\obj\\",
+        "projectPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+        "packagesPath": "C:\\Users\\Mi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Castle.Core": {
               "target": "Package",
@@ -70,7 +71,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -80,7 +81,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.10, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
@@ -123,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
