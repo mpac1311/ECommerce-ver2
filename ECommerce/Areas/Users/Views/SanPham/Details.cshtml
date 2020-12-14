@@ -8,14 +8,6 @@
 <div id="page-content" class="single-page">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <ul class="breadcrumb">
-                    <li><a asp-action="Index" asp-controller="Product">Trang Chủ</a></li>
-                    <li><a>@Model.Loai.TenLoai</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
             <div id="main-content" class="col-md-8">
                 <div class="product">
                     <div class="col-md-6">
@@ -26,10 +18,10 @@
                     </div>
                     <div class="col-md-6">
                         <div class="caption">
-                            <div class="name"><h3>@Model.TenSP</h3></div>
+                            <div class="name"><h2>@Model.TenSP</h2></div>
                             <div class="info">
                                 <ul>
-                                    <li>Thương hiệu: @Model.Loai.TenLoai</li>
+                                    <li>Thương hiệu: @Model.ThuongHieu.TenTH</li>
 
                                 </ul>
                             </div>
@@ -69,33 +61,10 @@
                     <div class="heading"><h4>Danh Mục</h4></div>
                     <div class="content">
                         <ul>
-                            <li><a href="#">PC Computers</a></li>
-                            <li><a href="#">Laptops & Notebooks</a></li>
-                            <li><a href="#">Mobiles & Tablet</a></li>
-                            <li><a href="#">Software</a></li>
+                            <li><a >TABLET</a></li>
+                            <li><a >ĐIỆN THOẠI</a></li>
+                            <li><a >PHỤ KIỆN</a></li>
                         </ul>
-                    </div>
-                </div>
-                <div class="widget wid-discouts">
-                    <div class="heading"><h4>Theo Giá</h4></div>
-                    <div class="content">
-                        <label class="checkbox"><input type="checkbox" name="discount" checked="">Từ 1,000,000đ--->2,000,000đ</label>
-                        <label class="checkbox"><input type="checkbox" name="discount" checked="">Từ 2,000,000đ--->5,000,000đ</label>
-                        <label class="checkbox"><input type="checkbox" name="discount" checked="">Từ 5,000,000đ--->10,000,000đ</label>
-                        <label class="checkbox"><input type="checkbox" name="discount" checked="">Từ 10,000,000đ--->15,000,000đ</label>
-                        <label class="checkbox"><input type="checkbox" name="discount" checked="">Từ 15,000,000đ--->20,000,000đ</label>
-                    </div>
-                </div>
-                <div class="widget wid-brand">
-                    <div class="heading"><h4>Theo Thương Hiệu</h4></div>
-                    <div class="content">
-                        <label class="checkbox"><input type="checkbox" name="brand">Nokia</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">Samsung</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">Iphone</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">HTC</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">Oppo</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">Kings</label>
-                        <label class="checkbox"><input type="checkbox" name="brand">Zumba</label>
                     </div>
                 </div>
                 <div class="widget wid-product">
@@ -127,7 +96,4 @@
             </div>
         </div>
     </div>
-</div>
-<div>
-    <a asp-action="Index" asp-controller="Product">Back to List</a>
 </div>

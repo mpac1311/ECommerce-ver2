@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ECommerce.Migrations
 {
-    public partial class init : Migration
+    public partial class initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -134,17 +134,20 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "ThuongHieus",
+                name: "TinTucs",
                 columns: table => new
                 {
-                    MaTH = table.Column<int>(type: "int", nullable: false)
+                    MaTT = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TenTH = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Mota = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    TieuDe = table.Column<int>(type: "int", nullable: false),
+                    NoiDung = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    NgayDang = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    HinhAnh = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Video = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ThuongHieus", x => x.MaTH);
+                    table.PrimaryKey("PK_TinTucs", x => x.MaTT);
                 });
 
             migrationBuilder.CreateTable(
@@ -161,20 +164,17 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "TinTucs",
+                name: "ThuongHieus",
                 columns: table => new
                 {
-                    MaTT = table.Column<int>(type: "int", nullable: false)
+                    MaTH = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TieuDe = table.Column<int>(type: "int", nullable: false),
-                    NoiDung = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    NgayDang = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    HinhAnh = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Video = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    TenTH = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Mota = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_TinTucs", x => x.MaTT);
+                    table.PrimaryKey("PK_ThuongHieus", x => x.MaTH);
                 });
 
             migrationBuilder.CreateTable(
@@ -284,6 +284,39 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "DonHangs",
+                columns: table => new
+                {
+                    MaDH = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    NgayTaoDH = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    GhiChuDH = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    TenKH = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    DiaChiNhan = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    SoDienThoai = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    MaTT = table.Column<int>(type: "int", nullable: false),
+                    TinhTrangDHMaTT = table.Column<int>(type: "int", nullable: true),
+                    KhuyenMaiMaKM = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_DonHangs", x => x.MaDH);
+                    table.ForeignKey(
+                        name: "FK_DonHangs_KhuyenMais_KhuyenMaiMaKM",
+                        column: x => x.KhuyenMaiMaKM,
+                        principalTable: "KhuyenMais",
+                        principalColumn: "MaKM",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_DonHangs_TinhTrangDH_TinhTrangDHMaTT",
+                        column: x => x.TinhTrangDHMaTT,
+                        principalTable: "TinhTrangDH",
+                        principalColumn: "MaTT",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "SanPhams",
                 columns: table => new
                 {
@@ -324,56 +357,6 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "DonHangs",
-                columns: table => new
-                {
-                    MaDH = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    NgayTaoDH = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    GhiChuDH = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    TenKH = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DiaChiNhan = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SoDienThoai = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MaTT = table.Column<int>(type: "int", nullable: false),
-                    TinhTrangDHMaTT = table.Column<int>(type: "int", nullable: true),
-                    KhuyenMaiMaKM = table.Column<string>(type: "nvarchar(450)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_DonHangs", x => x.MaDH);
-                    table.ForeignKey(
-                        name: "FK_DonHangs_KhuyenMais_KhuyenMaiMaKM",
-                        column: x => x.KhuyenMaiMaKM,
-                        principalTable: "KhuyenMais",
-                        principalColumn: "MaKM",
-                        onDelete: ReferentialAction.Restrict);
-                    table.ForeignKey(
-                        name: "FK_DonHangs_TinhTrangDH_TinhTrangDHMaTT",
-                        column: x => x.TinhTrangDHMaTT,
-                        principalTable: "TinhTrangDH",
-                        principalColumn: "MaTT",
-                        onDelete: ReferentialAction.Restrict);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "productToCarts",
-                columns: table => new
-                {
-                    SanPhamMaSP = table.Column<int>(type: "int", nullable: true),
-                    Quantity = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.ForeignKey(
-                        name: "FK_productToCarts_SanPhams_SanPhamMaSP",
-                        column: x => x.SanPhamMaSP,
-                        principalTable: "SanPhams",
-                        principalColumn: "MaSP",
-                        onDelete: ReferentialAction.Restrict);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "ChiTietDonHangs",
                 columns: table => new
                 {
@@ -392,6 +375,23 @@ namespace ECommerce.Migrations
                         principalTable: "DonHangs",
                         principalColumn: "MaDH",
                         onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "productToCarts",
+                columns: table => new
+                {
+                    SanPhamMaSP = table.Column<int>(type: "int", nullable: true),
+                    Quantity = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.ForeignKey(
+                        name: "FK_productToCarts_SanPhams_SanPhamMaSP",
+                        column: x => x.SanPhamMaSP,
+                        principalTable: "SanPhams",
+                        principalColumn: "MaSP",
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateTable(
@@ -422,12 +422,12 @@ namespace ECommerce.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "fb3633e3-75d1-47d0-a7e0-0a04977a19c4", "8ee5e5d1-50fc-43ea-b423-0f6dc16fa1ab", "Visitor", "VISITOR" });
+                values: new object[] { "7be6a38f-a7e5-450f-b053-04a26578114f", "3f28b4b8-acc2-44fa-a181-0dd12aa919cc", "Visitor", "VISITOR" });
 
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "7260cdb2-1d34-46da-bd69-e0763026296b", "2c7bcb75-2b77-4003-a7be-57bde3986cef", "Administrator", "ADMINISTRATOR" });
+                values: new object[] { "038582e1-99e0-435d-9e06-7d8123d38d93", "921206d3-0573-45cf-aad7-38ef26fc7c76", "Administrator", "ADMINISTRATOR" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",

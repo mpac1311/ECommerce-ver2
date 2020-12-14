@@ -31,9 +31,9 @@ namespace ECommerce.Areas.Users.Controllers
         public ActionResult Iphone()
         {
 
-            var searchmovie = from x in _context.SanPhams
-                              where x.MaTH==1
-                              select x;
+            var searchmovie = (from x in _context.SanPhams
+                               where x.Loai.TenLoai == "Iphone"
+                               select x).ToList();
 
 
             return View(searchmovie.ToList());
@@ -41,14 +41,33 @@ namespace ECommerce.Areas.Users.Controllers
         public ActionResult SamSung()
         {
 
-            var searchmovie = from x in _context.SanPhams
-                              where x.MaTH==2
-                              select x;
+            var searchmovie = (from x in _context.SanPhams
+                               where x.Loai.TenLoai == "Samsung"
+                               select x).ToList();
 
 
             return View(searchmovie.ToList());
         }
+        public ActionResult TabletApple()
+        {
 
+            var searchmovie = (from x in _context.SanPhams
+                               where x.Loai.TenLoai == "Ipad"
+                               select x).ToList();
+
+
+            return View(searchmovie.ToList());
+        }
+        public ActionResult TabletSamSung()
+        {
+
+            var searchmovie = (from x in _context.SanPhams
+                               where x.Loai.TenLoai == "Stab"
+                               select x).ToList();
+
+
+            return View(searchmovie.ToList());
+        }
         public IActionResult Index()
         {
             return View(_context.SanPhams);

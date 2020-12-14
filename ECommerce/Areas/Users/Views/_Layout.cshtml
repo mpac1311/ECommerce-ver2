@@ -31,142 +31,146 @@
     <![endif]-->
 </head>
 <body>
-        <!--Top-->
-        <nav id="top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-4">
-                        <ul class="top-link">
-                            <li><a href="#">So Sánh Sản Phẩm</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-xs-8">
-                        <ul class="top-link">
-                            <partial name="_LoginPartial" />
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </nav>
-         <!--Header-->
-        <header class="container">
+    <!--Top-->
+    <nav id="top">
+        <div class="container">
             <div class="row">
-                <div class="col-md-4">
-                    <div id="logo"><img src="~/User/images/logodaiphatmobile.png" /></div>
+                <div class="col-xs-4">
+                    <ul class="top-link">
+                        <li><a href="#">So Sánh Sản Phẩm</a></li>
+                    </ul>
                 </div>
-                @using (Html.BeginForm("Search", "SanPham", FormMethod.Get))
-                {
-                    <div class="col-md-4">
-
-                        <form class="form-search">
-                            @Html.TextBox("search")
-                            <button type="submit" class="btn"><span class="glyphicon glyphicon-search"></span></button>
-                        </form>
-
-                    </div>
-                }
-                <div class="col-md-4">
-                    <div id="cart"><a class="btn btn-1" asp-controller="Cart" asp-action="Index"><span class="glyphicon glyphicon-shopping-cart"></span>CART</a></div>
-                </div>
-            </div>
-        </header>
-        <!--Navigation-->
-        <nav id="menu" class="navbar">
-            <div class="container">
-                <div class="navbar-header">
-                    <span id="heading" class="visible-xs">Categories</span>
-                    <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
-                </div>
-                <div class="collapse navbar-collapse navbar-ex1-collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a asp-area="Users" asp-controller="SanPham" asp-action="Index">Trang Chủ</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tablet</a>
-                            <div class="dropdown-menu">
-                                <div class="dropdown-inner">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#">Apple</a></li>
-                                        <li><a href="#">Samsung</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Điện Thoại</a>
-                            <div class="dropdown-menu">
-                                <div class="dropdown-inner">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#">Apple</a></li>
-                                        <li><a href="#">Samsung</a></li>
-                                        <li><a href="#">Oppo</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Phụ Kiện</a>
-                            <div class="dropdown-menu">
-                                <div class="dropdown-inner">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#">Tai Nghe</a></li>
-                                        <li><a href="#">Cáp Sạc</a></li>
-                                        <li><a href="#">Củ Sạc</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
+                <div class="col-xs-8">
+                    <ul class="top-link">
+                        <partial name="_LoginPartial" />
                     </ul>
                 </div>
             </div>
-        </nav>
-        <!--//////////////////////////////////////////////////-->
-        <!--///////////////////HomePage///////////////////////-->
-        <!--//////////////////////////////////////////////////-->
+        </div>
+    </nav>
+    <!--Header-->
+    <header class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div id="logo"><img src="~/User/images/logodaiphatmobile.png" /></div>
+            </div>
+            @using (Html.BeginForm("Search", "SanPham", FormMethod.Get))
+            {
+                <div class="col-md-4">
 
-        @RenderBody()
-        <!--phan nay la phan san pham-->
-        <!---->
-        <!--footer-->
-        <footer>
-            <div class="container">
-                <div class="wrap-footer">
-                    <div class="row">
-                        <div class="col-md-3 col-footer footer-1">
-                            <img src="~/User/images/logodaiphatmobile.png" />
-                            <p>Chuyên Cung Cấp Các Sản Phẩm Công Nghệ Như Điện Thoại</p>
+                    <form class="form-search">
+                        @Html.TextBox("search")
+                        <button type="submit" class="btn"><span class="glyphicon glyphicon-search"></span></button>
+                    </form>
+
+                </div>
+            }
+            <div class="col-md-4">
+                <div id="cart"><a class="btn btn-1" asp-controller="Cart" asp-action="Index"><span class="glyphicon glyphicon-shopping-cart"></span>CART</a></div>
+            </div>
+        </div>
+    </header>
+    <!--Navigation-->
+    <nav id="menu" class="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <span id="heading" class="visible-xs">Categories</span>
+                <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+            </div>
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="Index">Trang Chủ</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tablet</a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-inner">
+                                <ul class="list-unstyled">
+                                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="TabletApple">Apple</a></li>
+                                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="TabletSamSung">Samsung</a></li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="col-md-3 col-footer footer-2">
-                            <div class="heading"><h4>Hỗ TRỢ - DỊCH VỤ</h4></div>
-                            <ul>
-                                <li><a href="#">Về Chúng Tôi</a></li>
-                                <li><a href="#">Liên Hệ</a></li>
-                                <li><a href="#">Phản Hồi</a></li>
-                            </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Điện Thoại</a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-inner">
+                                <ul class="list-unstyled">
+                                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="iphone">Apple</a></li>
+                                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="SamSung">Samsung</a></li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="col-md-3 col-footer footer-3">
-                            <div class="heading"><h4>HỆ THỐNG CỬA HÀNG</h4></div>
-                            <ul>
-                                <li><a href="#">382 NguyễnVănCừ,P11,Q1</a></li>
-                                <li><a href="#">621D 3/2,P11,Q11</a></li>
-                                <li><a href="#">215 LêVănViệt,P2,Q3</a></li>
-                            </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Phụ Kiện</a>
+                        <div class="dropdown-menu">
+                            <div class="dropdown-inner">
+                                <ul class="list-unstyled">
+                                    <li><a href="#">Tai Nghe</a></li>
+                                    <li><a href="#">Cáp Sạc</a></li>
+                                    <li><a href="#">Củ Sạc</a></li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="col-md-3 col-footer footer-4">
-                            <div class="heading"><h4>LIÊN HỆ</h4></div>
-                            <ul>
-                                <li><span class="glyphicon glyphicon-home"></span>382 NguyễnVănCừ,P11,Q1</li>
-                                <li><span class="glyphicon glyphicon-earphone"></span>02827272727</li>
-                                <li><span class="glyphicon glyphicon-envelope"></span>DaiPhatMobile@gmail.com</li>
-                            </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--//////////////////////////////////////////////////-->
+    <!--///////////////////HomePage///////////////////////-->
+    <!--//////////////////////////////////////////////////-->
+    <!--//////////////////////////////////////////////////-->
+    <!--//////////////////////////////////////////////////-->
+    <div class="container">
+        <div class="row">
+            @RenderBody()
+            </div>
+        </div>
+            <!--phan nay la phan san pham-->
+            <!---->
+            <!--footer-->
+            <footer>
+                <div class="container">
+                    <div class="wrap-footer">
+                        <div class="row">
+                            <div class="col-md-3 col-footer footer-1">
+                                <img src="~/User/images/logodaiphatmobile.png" />
+                                <p>Chuyên Cung Cấp Các Sản Phẩm Công Nghệ Như Điện Thoại</p>
+                            </div>
+                            <div class="col-md-3 col-footer footer-2">
+                                <div class="heading"><h4>Hỗ TRỢ - DỊCH VỤ</h4></div>
+                                <ul>
+                                    <li><a href="#">Về Chúng Tôi</a></li>
+                                    <li><a href="#">Liên Hệ</a></li>
+                                    <li><a href="#">Phản Hồi</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-footer footer-3">
+                                <div class="heading"><h4>HỆ THỐNG CỬA HÀNG</h4></div>
+                                <ul>
+                                    <li><a href="#">382 NguyễnVănCừ,P11,Q1</a></li>
+                                    <li><a href="#">621D 3/2,P11,Q11</a></li>
+                                    <li><a href="#">215 LêVănViệt,P2,Q3</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-3 col-footer footer-4">
+                                <div class="heading"><h4>LIÊN HỆ</h4></div>
+                                <ul>
+                                    <li><span class="glyphicon glyphicon-home"></span>382 NguyễnVănCừ,P11,Q1</li>
+                                    <li><span class="glyphicon glyphicon-earphone"></span>02827272727</li>
+                                    <li><span class="glyphicon glyphicon-envelope"></span>DaiPhatMobile@gmail.com</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </footer>
-        <!--footer-->
-        <script src="~/lib/jquery/dist/jquery.min.js"></script>
-        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="~/js/site.js" asp-append-version="true"></script>
-        @RenderSection("Scripts", required: false)
+            </footer>
+            <!--footer-->
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+            <script src="~/js/site.js" asp-append-version="true"></script>
+            @RenderSection("Scripts", required: false)
 </body>
 </html>
