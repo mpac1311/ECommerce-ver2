@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ECommerce.Data;
+using ECommerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -20,7 +21,7 @@ namespace ECommerce.Areas.Users.Controllers
         {
 
             var searchSP = from x in _context.SanPhams
-                              select x;
+                           select x;
             if (!String.IsNullOrEmpty(search))
             {
                 searchSP = searchSP.Where(x => x.TenSP.Contains(search));
@@ -28,11 +29,30 @@ namespace ECommerce.Areas.Users.Controllers
 
             return View(searchSP);
         }
+        public ActionResult SearchPrice(string NameProduct,string Price1,string Price2)
+        {
+                List<SanPham> product = _context.SanPhams.ToList();
+                var search = from x in product.AsEnumerable()
+                             select x;
+                if (!String.IsNullOrEmpty(NameProduct))
+                {
+                    search = search.Where(s => s.TenSP.Contains(NameProduct));
+                }
+                if (!String.IsNullOrEmpty(Price1))
+                {
+                    search = search.Where(s => Convert.ToDouble(s.DonGia) >= Convert.ToDouble(Price1));
+                }
+                if (!String.IsNullOrEmpty(Price2))
+                {
+                    search = search.Where(s => Convert.ToDouble(s.DonGia) <= Convert.ToDouble(Price2));
+                }
+                return View(search.ToList());
+        }
         public ActionResult Iphone()
         {
 
             var searchmovie = (from x in _context.SanPhams
-                               where x.Loai.TenLoai == "Iphone"
+                               where x.Loai.TenLoai == "Điện thoại" && x.ThuongHieu.TenTH == "Apple"
                                select x).ToList();
 
 
@@ -42,7 +62,7 @@ namespace ECommerce.Areas.Users.Controllers
         {
 
             var searchmovie = (from x in _context.SanPhams
-                               where x.Loai.TenLoai == "Samsung"
+                               where x.Loai.TenLoai == "Điện thoại" && x.ThuongHieu.TenTH == "Samsung"
                                select x).ToList();
 
 
@@ -52,7 +72,7 @@ namespace ECommerce.Areas.Users.Controllers
         {
 
             var searchmovie = (from x in _context.SanPhams
-                               where x.Loai.TenLoai == "Ipad"
+                               where x.Loai.TenLoai == "Máy tính bảng" && x.ThuongHieu.TenTH == "Apple"
                                select x).ToList();
 
 
@@ -62,7 +82,7 @@ namespace ECommerce.Areas.Users.Controllers
         {
 
             var searchmovie = (from x in _context.SanPhams
-                               where x.Loai.TenLoai == "Stab"
+                               where x.Loai.TenLoai == "Máy tính bảng" && x.ThuongHieu.TenTH == "Samsung"
                                select x).ToList();
 
 

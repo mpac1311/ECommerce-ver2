@@ -80,6 +80,7 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
                     <li><a asp-area="Users" asp-controller="SanPham" asp-action="Index">Trang Chủ</a></li>
+                    <li><a asp-area="Users" asp-controller="SanPham" asp-action="SearchPrice">Trang Sản Phẩm</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tablet</a>
                         <div class="dropdown-menu">
@@ -102,18 +103,18 @@
                             </div>
                         </div>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Phụ Kiện</a>
-                        <div class="dropdown-menu">
-                            <div class="dropdown-inner">
-                                <ul class="list-unstyled">
-                                    <li><a href="#">Tai Nghe</a></li>
-                                    <li><a href="#">Cáp Sạc</a></li>
-                                    <li><a href="#">Củ Sạc</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
+                    @*<li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Phụ Kiện</a>
+            <div class="dropdown-menu">
+                <div class="dropdown-inner">
+                    <ul class="list-unstyled">
+                        <li><a href="#">Tai Nghe</a></li>
+                        <li><a href="#">Cáp Sạc</a></li>
+                        <li><a href="#">Củ Sạc</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>*@
                 </ul>
             </div>
         </div>
