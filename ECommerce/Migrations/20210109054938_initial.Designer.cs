@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerce.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210109035845_initial")]
+    [Migration("20210109054938_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -47,7 +47,7 @@ namespace ECommerce.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
-                    b.Property<string>("Address")
+                    b.Property<string>("Address1")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("BirthDay")
@@ -161,6 +161,9 @@ namespace ECommerce.Migrations
                     b.Property<string>("DiaChiNhan")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("District")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
@@ -169,6 +172,9 @@ namespace ECommerce.Migrations
 
                     b.Property<string>("KhuyenMaiMaKM")
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("MaShip")
+                        .HasColumnType("int");
 
                     b.Property<int>("MaTT")
                         .HasColumnType("int");
@@ -188,6 +194,8 @@ namespace ECommerce.Migrations
                     b.HasKey("MaDH");
 
                     b.HasIndex("KhuyenMaiMaKM");
+
+                    b.HasIndex("MaShip");
 
                     b.HasIndex("TinhTrangDHMaTT");
 
@@ -253,6 +261,24 @@ namespace ECommerce.Migrations
                     b.HasKey("MaNhaCC");
 
                     b.ToTable("NhaCungCaps");
+                });
+
+            modelBuilder.Entity("ECommerce.Models.PhiShip", b =>
+                {
+                    b.Property<int>("MaShip")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<decimal>("ShipPrice")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("TenPhiShip")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("MaShip");
+
+                    b.ToTable("PhiShip");
                 });
 
             modelBuilder.Entity("ECommerce.Models.SanPham", b =>
@@ -380,7 +406,7 @@ namespace ECommerce.Migrations
 
                     b.HasKey("MaTTSP");
 
-                    b.ToTable("TrangThaiSP");
+                    b.ToTable("TrangThaiSPs");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -412,15 +438,15 @@ namespace ECommerce.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "3d726946-6fb7-4926-bb6a-93ab24d8dd8b",
-                            ConcurrencyStamp = "8391edf7-482f-4ca2-97e8-eb6654887452",
+                            Id = "3b90316e-4de4-4119-8ae1-c5e121e95c18",
+                            ConcurrencyStamp = "cc20f481-7f53-4d5d-9030-e0a9b86079c4",
                             Name = "Visitor",
                             NormalizedName = "VISITOR"
                         },
                         new
                         {
-                            Id = "bc3e5e5a-da1e-4076-a474-4c0a764edba4",
-                            ConcurrencyStamp = "b590318c-fe6c-4a6f-bd83-56a0ba422148",
+                            Id = "2bfc2c9d-ba52-47fa-96fc-2e428aaaf0f9",
+                            ConcurrencyStamp = "7280b7ae-8e52-4bda-bbb8-f9e50ca395d6",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });
@@ -571,9 +597,17 @@ namespace ECommerce.Migrations
                         .WithMany("DonHangs")
                         .HasForeignKey("KhuyenMaiMaKM");
 
+                    b.HasOne("ECommerce.Models.PhiShip", "PhiShip")
+                        .WithMany("DonHangs")
+                        .HasForeignKey("MaShip")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.HasOne("ECommerce.Models.TinhTrangDH", "TinhTrangDH")
                         .WithMany("DonHangs")
                         .HasForeignKey("TinhTrangDHMaTT");
+
+                    b.Navigation("PhiShip");
 
                     b.Navigation("TinhTrangDH");
                 });
@@ -677,6 +711,11 @@ namespace ECommerce.Migrations
             modelBuilder.Entity("ECommerce.Models.NhaCungCap", b =>
                 {
                     b.Navigation("sanPhams");
+                });
+
+            modelBuilder.Entity("ECommerce.Models.PhiShip", b =>
+                {
+                    b.Navigation("DonHangs");
                 });
 
             modelBuilder.Entity("ECommerce.Models.ThuongHieu", b =>

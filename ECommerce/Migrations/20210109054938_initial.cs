@@ -29,7 +29,7 @@ namespace ECommerce.Migrations
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BirthDay = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Address = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Address1 = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -95,6 +95,20 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "PhiShip",
+                columns: table => new
+                {
+                    MaShip = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    TenPhiShip = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    ShipPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_PhiShip", x => x.MaShip);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "ThuongHieus",
                 columns: table => new
                 {
@@ -139,7 +153,7 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "TrangThaiSP",
+                name: "TrangThaiSPs",
                 columns: table => new
                 {
                     MaTTSP = table.Column<int>(type: "int", nullable: false)
@@ -148,7 +162,7 @@ namespace ECommerce.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_TrangThaiSP", x => x.MaTTSP);
+                    table.PrimaryKey("PK_TrangThaiSPs", x => x.MaTTSP);
                 });
 
             migrationBuilder.CreateTable(
@@ -267,10 +281,12 @@ namespace ECommerce.Migrations
                     GhiChuDH = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     TenKH = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     DiaChiNhan = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    District = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     SoDienThoai = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     MaTT = table.Column<int>(type: "int", nullable: false),
                     TinhTrangDHMaTT = table.Column<int>(type: "int", nullable: true),
+                    MaShip = table.Column<int>(type: "int", nullable: false),
                     KhuyenMaiMaKM = table.Column<string>(type: "nvarchar(450)", nullable: true)
                 },
                 constraints: table =>
@@ -282,6 +298,12 @@ namespace ECommerce.Migrations
                         principalTable: "KhuyenMais",
                         principalColumn: "MaKM",
                         onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_DonHangs_PhiShip_MaShip",
+                        column: x => x.MaShip,
+                        principalTable: "PhiShip",
+                        principalColumn: "MaShip",
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_DonHangs_TinhTrangDH_TinhTrangDHMaTT",
                         column: x => x.TinhTrangDHMaTT,
@@ -330,9 +352,9 @@ namespace ECommerce.Migrations
                         principalColumn: "MaTH",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_SanPhams_TrangThaiSP_MaTTSP",
+                        name: "FK_SanPhams_TrangThaiSPs_MaTTSP",
                         column: x => x.MaTTSP,
-                        principalTable: "TrangThaiSP",
+                        principalTable: "TrangThaiSPs",
                         principalColumn: "MaTTSP",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -403,12 +425,12 @@ namespace ECommerce.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "3d726946-6fb7-4926-bb6a-93ab24d8dd8b", "8391edf7-482f-4ca2-97e8-eb6654887452", "Visitor", "VISITOR" });
+                values: new object[] { "3b90316e-4de4-4119-8ae1-c5e121e95c18", "cc20f481-7f53-4d5d-9030-e0a9b86079c4", "Visitor", "VISITOR" });
 
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "bc3e5e5a-da1e-4076-a474-4c0a764edba4", "b590318c-fe6c-4a6f-bd83-56a0ba422148", "Administrator", "ADMINISTRATOR" });
+                values: new object[] { "2bfc2c9d-ba52-47fa-96fc-2e428aaaf0f9", "7280b7ae-8e52-4bda-bbb8-f9e50ca395d6", "Administrator", "ADMINISTRATOR" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
@@ -458,6 +480,11 @@ namespace ECommerce.Migrations
                 name: "IX_DonHangs_KhuyenMaiMaKM",
                 table: "DonHangs",
                 column: "KhuyenMaiMaKM");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_DonHangs_MaShip",
+                table: "DonHangs",
+                column: "MaShip");
 
             migrationBuilder.CreateIndex(
                 name: "IX_DonHangs_TinhTrangDHMaTT",
@@ -541,10 +568,13 @@ namespace ECommerce.Migrations
                 name: "ThuongHieus");
 
             migrationBuilder.DropTable(
-                name: "TrangThaiSP");
+                name: "TrangThaiSPs");
 
             migrationBuilder.DropTable(
                 name: "KhuyenMais");
+
+            migrationBuilder.DropTable(
+                name: "PhiShip");
 
             migrationBuilder.DropTable(
                 name: "TinhTrangDH");

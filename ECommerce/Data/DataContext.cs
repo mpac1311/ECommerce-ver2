@@ -42,6 +42,8 @@ namespace ECommerce.Data
         public DbSet<NhaCungCap> NhaCungCaps { get; set; }
         public DbSet<ThuongHieu> ThuongHieus { get; set; }
         public DbSet<TinTuc> TinTucs { get; set; }
+        public DbSet<TrangThaiSP> TrangThaiSPs { get; set; }
         public DbSet<ECommerce.Models.TinhTrangDH> TinhTrangDH { get; set; }
+        public DbSet<ECommerce.Models.PhiShip> PhiShip { get; set; }
     }
 }

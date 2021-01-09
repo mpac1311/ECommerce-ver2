@@ -25,7 +25,7 @@ namespace ECommerce.Areas.Admin.Controllers
                                 select x;
             if (!String.IsNullOrEmpty(search))
             {
-                searchproduct = searchproduct.Where(x => x.TenSP.Contains(search)).Include(m => m.Loai).Include(m => m.NhaCungCap).Include(m => m.ThuongHieu);
+                searchproduct = searchproduct.Where(x => x.TenSP.Contains(search)).Include(m => m.Loai).Include(m => m.NhaCungCap).Include(m => m.ThuongHieu).Include(m=>m.TrangThaiSP);
             }
 
             return View(searchproduct.ToList());
@@ -38,7 +38,7 @@ namespace ECommerce.Areas.Admin.Controllers
         // GET: Admin/SanPhams
         public async Task<IActionResult> Index()
         {
-            var dataContext = _context.SanPhams.Include(s => s.Loai).Include(s => s.NhaCungCap).Include(s => s.ThuongHieu);
+            var dataContext = _context.SanPhams.Include(s => s.Loai).Include(s => s.NhaCungCap).Include(s => s.ThuongHieu).Include(s=>s.TrangThaiSP);
             return View(await dataContext.ToListAsync());
         }
 
@@ -54,6 +54,7 @@ namespace ECommerce.Areas.Admin.Controllers
                 .Include(s => s.Loai)
                 .Include(s => s.NhaCungCap)
                 .Include(s => s.ThuongHieu)
+                .Include(s=>s.TrangThaiSP)
                 .FirstOrDefaultAsync(m => m.MaSP == id);
             if (sanPham == null)
             {
@@ -69,6 +70,7 @@ namespace ECommerce.Areas.Admin.Controllers
             ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "TenLoai");
             ViewData["MaNhaCC"] = new SelectList(_context.NhaCungCaps, "MaNhaCC", "TenNhaCC");
             ViewData["MaTH"] = new SelectList(_context.ThuongHieus, "MaTH", "TenTH");
+            ViewData["MaTTSP"] = new SelectList(_context.TrangThaiSPs, "MaTTSP", "TrangThaiProduct");
             return View();
         }
 
@@ -96,6 +98,7 @@ namespace ECommerce.Areas.Admin.Controllers
                 ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "MaLoai", sanPham.MaLoai);
                 ViewData["MaNhaCC"] = new SelectList(_context.NhaCungCaps, "MaNhaCC", "MaNhaCC", sanPham.MaNhaCC);
                 ViewData["MaTH"] = new SelectList(_context.ThuongHieus, "MaTH", "MaTH", sanPham.MaTH);
+                ViewData["MaTTSP"] = new SelectList(_context.TrangThaiSPs, "MaTTSP", "MaTTSP", sanPham.MaTTSP);
                 _context.Add(sanPham);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index","SanPhams");
@@ -119,6 +122,7 @@ namespace ECommerce.Areas.Admin.Controllers
             ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "TenLoai", sanPham.MaLoai);
             ViewData["MaNhaCC"] = new SelectList(_context.NhaCungCaps, "MaNhaCC", "TenNhaCC", sanPham.MaNhaCC);
             ViewData["MaTH"] = new SelectList(_context.ThuongHieus, "MaTH", "TenTH", sanPham.MaTH);
+            ViewData["MaTTSP"] = new SelectList(_context.TrangThaiSPs, "MaTTSP", "TrangThaiProduct", sanPham.MaTTSP);
             return View(sanPham);
         }
 
@@ -157,6 +161,7 @@ namespace ECommerce.Areas.Admin.Controllers
             ViewData["MaLoai"] = new SelectList(_context.Loais, "MaLoai", "MaLoai", sanPham.MaLoai);
             ViewData["MaNhaCC"] = new SelectList(_context.NhaCungCaps, "MaNhaCC", "MaNhaCC", sanPham.MaNhaCC);
             ViewData["MaTH"] = new SelectList(_context.ThuongHieus, "MaTH", "MaTH", sanPham.MaTH);
+            ViewData["MaTTSP"] = new SelectList(_context.TrangThaiSPs, "MaTTSP", "MaTTSP", sanPham.MaTTSP);
             return View(sanPham);
         }
 
@@ -172,6 +177,7 @@ namespace ECommerce.Areas.Admin.Controllers
                 .Include(s => s.Loai)
                 .Include(s => s.NhaCungCap)
                 .Include(s => s.ThuongHieu)
+                .Include(s=>s.TrangThaiSP)
                 .FirstOrDefaultAsync(m => m.MaSP == id);
             if (sanPham == null)
             {

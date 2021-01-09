@@ -1308,3 +1308,13 @@ C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Ra
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhiShips\Create.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhiShips\Delete.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhiShips\Details.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhiShips\Edit.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\PhiShips\Index.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Create.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Delete.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Details.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Edit.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Index.cshtml.g.cs

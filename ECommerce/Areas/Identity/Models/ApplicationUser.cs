@@ -14,12 +14,6 @@ namespace ECommerce.Areas.Identity.Models
         public DateTime BirthDay { get; set; }
         [Display(Name="Địa chỉ_1")]
         public string Address1 { get; set; }
-        [Display(Name = "Quận_1")]
-        public string District1 { get; set; }
-        [Display(Name = "Địa chỉ_2")]
-        public string Address2 { get; set; }
-        [Display(Name = "Quận_2")]
-        public string District2 { get; set; }
 
     }
 }
