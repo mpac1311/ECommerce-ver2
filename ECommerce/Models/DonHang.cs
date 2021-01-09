@@ -20,13 +20,18 @@ namespace ECommerce.Models
         public string TenKH { get; set; }
         [Display(Name = "Địa chỉ nhận")]
         public string DiaChiNhan { get; set; }
+        [Display(Name = "Quận")]
+        public string District { get; set; }
         [Display(Name = "Số điện thoại")]
         public string SoDienThoai { get; set; }
-
+        [Display(Name ="Email")]
         public string Email { get; set; }
         [ForeignKey("DonHang")]
         [Display(Name = "Mã Tình Trạng")]
         public int MaTT { get; set; }
         public TinhTrangDH TinhTrangDH { get; set; }
+        [ForeignKey("PhiShip")]
+        public int MaShip { get; set; }
+        public PhiShip PhiShip { get; set; }
     }
 }

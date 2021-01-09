@@ -14,6 +14,6 @@ namespace ECommerce.Models
         public string TenTH { get; set; }
         [Display(Name = "Mô tả")]
         public string Mota { get; set; }
-        public List<SanPham> sanPhams { get; set; }
+        public ICollection<SanPham> sanPhams { get; set; }
     }
 }

@@ -14,6 +14,6 @@ namespace ECommerce.Models
         public string DieuKienApDung { get; set; }
         public DateTime NgayBatDau { get; set; }
         public DateTime NgayKetThuc { get; set; }
-        public List<DonHang> DonHangs { get; set; }
+        public ICollection<DonHang> DonHangs { get; set; }
     }
 }

@@ -12,6 +12,6 @@ namespace ECommerce.Models
         public int MaLoai { get; set; }
         [Display(Name = "Tên Loại")]
         public string TenLoai { get; set; }
-        public List<SanPham> sanPhams { get; set; }
+        public ICollection<SanPham> sanPhams { get; set; }
     }
 }

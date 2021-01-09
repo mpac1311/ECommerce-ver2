@@ -55,7 +55,7 @@ namespace ECommerce.Areas.Identity.Pages.Account
             public DateTime BirthDay { get; set; }
 
             [Display(Name = "Address")]
-            public string Address { get; set; }
+            public string Address1 { get; set; }
 
             [Required]
             [EmailAddress]
@@ -94,7 +94,7 @@ namespace ECommerce.Areas.Identity.Pages.Account
                    FirstName=Input.FirstName,
                    LastName=Input.LastName,
                    BirthDay=Input.BirthDay,
-                   Address=Input.Address,
+                   Address1=Input.Address1,
                 };
                 var result = await _userManager.CreateAsync(user, Input.Password);
 

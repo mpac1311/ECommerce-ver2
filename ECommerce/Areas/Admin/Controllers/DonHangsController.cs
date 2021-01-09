@@ -82,6 +82,8 @@ namespace ECommerce.Areas.Admin.Controllers
                     client.Send(message);
                     client.Disconnect(true);
                 }
+                donHang.NgayTaoDH = DateTime.Now;
+
             }
             
             return Redirect("/Users/Cart/Success");
