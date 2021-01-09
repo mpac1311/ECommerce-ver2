@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\CAKE\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\CAKE\\.nuget\\packages"
+      "C:\\Users\\Mi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mi\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

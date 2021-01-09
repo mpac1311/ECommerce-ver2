@@ -719,7 +719,6 @@ C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Ra
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Edit.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TinhTrangDHs\Index.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_Layout.cshtml.g.cs
-C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
@@ -1298,3 +1297,6 @@ D:\down\BaiTH91\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
 D:\down\BaiTH91\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
 D:\down\BaiTH91\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
 D:\down\BaiTH91\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SearchPrice.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SearchPrice.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletApple.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletSamSung.cshtml.g.cs

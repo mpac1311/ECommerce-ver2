@@ -10661,19 +10661,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CAKE\\.nuget\\packages\\": {}
+    "C:\\Users\\Mi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\down\\BaiTH91\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+      "projectUniqueName": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
       "projectName": "ECommerce",
-      "projectPath": "D:\\down\\BaiTH91\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
-      "packagesPath": "C:\\Users\\CAKE\\.nuget\\packages\\",
-      "outputPath": "D:\\down\\BaiTH91\\ECommerce-ver2\\ECommerce\\obj\\",
+      "projectPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\ECommerce.csproj",
+      "packagesPath": "C:\\Users\\Mi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mi\\Documents\\GitHub\\ECommerce-ver2\\ECommerce\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\CAKE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10780,7 +10784,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

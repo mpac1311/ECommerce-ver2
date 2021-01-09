@@ -37,12 +37,9 @@ namespace ECommerce.Data
         public DbSet<SanPham> SanPhams { get; set; }
         public DbSet<ChiTietDonHang> ChiTietDonHangs{ get; set; }
         public DbSet<DonHang> DonHangs { get; set; }
-       
-        public DbSet<KhachHang> KhachHangs { get; set; }
         public DbSet<KhuyenMai> KhuyenMais { get; set; }
         public DbSet<Loai> Loais { get; set; }
         public DbSet<NhaCungCap> NhaCungCaps { get; set; }
-        public DbSet<NhanVien> NhanViens { get; set; }
         public DbSet<ThuongHieu> ThuongHieus { get; set; }
         public DbSet<TinTuc> TinTucs { get; set; }
         public DbSet<ECommerce.Models.TinhTrangDH> TinhTrangDH { get; set; }
