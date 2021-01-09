@@ -77,7 +77,7 @@ namespace ECommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaSP,TenSP,DonGia,HinhAnh,Video,ChiTietSP,SoLuong,SoLuongMuaToiThieu,MaLoai,MaTH,MaNhaCC")] SanPham sanPham,IFormFile photo)
+        public async Task<IActionResult> Create([Bind("MaSP,TenSP,DonGia,HinhAnh,Video,ChiTietSP,SoLuong,SoLuongMuaToiThieu,MaLoai,MaTH,MaNhaCC,MaTTSP")] SanPham sanPham,IFormFile photo)
         {
             if (ModelState.IsValid)
             {
@@ -127,7 +127,7 @@ namespace ECommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MaSP,TenSP,DonGia,HinhAnh,Video,ChiTietSP,SoLuong,SoLuongMuaToiThieu,MaLoai,MaTH,MaNhaCC")] SanPham sanPham)
+        public async Task<IActionResult> Edit(int id, [Bind("MaSP,TenSP,DonGia,HinhAnh,Video,ChiTietSP,SoLuong,SoLuongMuaToiThieu,MaLoai,MaTH,MaNhaCC,MaTTSP")] SanPham sanPham)
         {
             if (id != sanPham.MaSP)
             {

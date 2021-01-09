@@ -26,8 +26,23 @@ using ECommerce.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 1 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using ECommerce.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5e83608b24a18482fc1825d31bc85c823c5eb7b", @"/Areas/Users/Views/SanPham/SearchPrice.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ec470632cb3b1b75499bc0cdcc8d1831e35eecad", @"/Areas/Users/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f21fd441ec6ce1b1b3434764f3c4f1814e3b7a1", @"/Areas/Users/Views/_ViewImports.cshtml")]
     public class Areas_Users_Views_SanPham_SearchPrice : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<ECommerce.Models.SanPham>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("img-edit"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -127,8 +142,8 @@ using ECommerce.Models;
 #line hidden
 #nullable disable
             WriteLiteral("                            <div class=\"col-lg-3 col-md-3 col-sm-6 col-xs-12\">\r\n                                <div class=\"product\">\r\n                                    <div class=\"image\">\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5e83608b24a18482fc1825d31bc85c823c5eb7b7996", async() => {
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b5e83608b24a18482fc1825d31bc85c823c5eb7b8212", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5e83608b24a18482fc1825d31bc85c823c5eb7b8587", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b5e83608b24a18482fc1825d31bc85c823c5eb7b8803", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -193,7 +208,7 @@ AddHtmlAttributeValue("", 1305, item.HinhAnh, 1305, 13, false);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    </div>\r\n                                    <div class=\"buttons\">\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5e83608b24a18482fc1825d31bc85c823c5eb7b12876", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5e83608b24a18482fc1825d31bc85c823c5eb7b13467", async() => {
                 WriteLiteral("<span class=\"glyphicon glyphicon-shopping-cart\"></span>");
             }
             );

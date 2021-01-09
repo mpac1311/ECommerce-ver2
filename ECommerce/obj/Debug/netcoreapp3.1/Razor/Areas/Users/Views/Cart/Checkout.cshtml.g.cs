@@ -26,8 +26,23 @@ using ECommerce.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 1 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using ECommerce.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c150b971f6f5b90cd56b67376716639fa4e1a531", @"/Areas/Users/Views/Cart/Checkout.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ec470632cb3b1b75499bc0cdcc8d1831e35eecad", @"/Areas/Users/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f21fd441ec6ce1b1b3434764f3c4f1814e3b7a1", @"/Areas/Users/Views/_ViewImports.cshtml")]
     public class Areas_Users_Views_Cart_Checkout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<ECommerce.Models.DonHang>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("width", new global::Microsoft.AspNetCore.Html.HtmlString("60"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -113,7 +128,7 @@ using ECommerce.Models;
 #line hidden
 #nullable disable
             WriteLiteral("</td>\r\n        <td>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c150b971f6f5b90cd56b67376716639fa4e1a5315707", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c150b971f6f5b90cd56b67376716639fa4e1a5316298", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

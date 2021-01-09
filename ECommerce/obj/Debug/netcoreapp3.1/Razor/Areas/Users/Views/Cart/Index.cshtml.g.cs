@@ -26,8 +26,23 @@ using ECommerce.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 1 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\Areas\Users\Views\_ViewImports.cshtml"
+using ECommerce.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"384ec991e26155d3b881a6f5a7ebc55d7503db90", @"/Areas/Users/Views/Cart/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ec470632cb3b1b75499bc0cdcc8d1831e35eecad", @"/Areas/Users/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f21fd441ec6ce1b1b3434764f3c4f1814e3b7a1", @"/Areas/Users/Views/_ViewImports.cshtml")]
     public class Areas_Users_Views_Cart_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<ECommerce.Data.ProductToCart>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("btn btn-danger pull-left"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -104,7 +119,7 @@ using ECommerce.Models;
 #line hidden
 #nullable disable
             WriteLiteral("                <div class=\"row\">\r\n                    <div class=\"product well\">\r\n                        <div class=\"col-md-3\">\r\n                            <div class=\"image\">\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "384ec991e26155d3b881a6f5a7ebc55d7503db907959", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "384ec991e26155d3b881a6f5a7ebc55d7503db908550", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -153,7 +168,7 @@ WriteAttributeValue("", 3031, item.Quantity, 3031, 14, false);
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(">\r\n                            </div>\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9010962", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9011553", async() => {
                 WriteLiteral("Remove");
             }
             );
@@ -195,7 +210,7 @@ WriteAttributeValue("", 3031, item.Quantity, 3031, 14, false);
 #line hidden
 #nullable disable
             WriteLiteral("            <div class=\"row\">\r\n                <div class=\"col-md-4 col-md-offset-8 \">\r\n                    <center>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9013921", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9014512", async() => {
                 WriteLiteral("Tiếp Tục Mua Sắm");
             }
             );
@@ -248,7 +263,7 @@ WriteAttributeValue("", 3031, item.Quantity, 3031, 14, false);
 #line hidden
 #nullable disable
             WriteLiteral("</h5></td>\r\n                        </table>\r\n                        <br />\r\n                        <center>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9016813", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384ec991e26155d3b881a6f5a7ebc55d7503db9017404", async() => {
                 WriteLiteral("Thanh toán");
             }
             );

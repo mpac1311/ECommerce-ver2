@@ -1300,3 +1300,11 @@ D:\down\BaiTH91\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Use
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\SearchPrice.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletApple.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\SanPham\TabletSamSung.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_LoginPartial.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
