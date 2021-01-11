@@ -19,7 +19,11 @@ namespace ECommerce.Areas.Admin.Controllers
     public class SanPhamsController : Controller
     {
         private readonly DataContext _context;
-        public async Task<IActionResult> Search(string search)
+        public SanPhamsController(DataContext context)
+        {
+            _context = context;
+        }
+        public IActionResult Search(string search)
         {
             var searchproduct = from x in _context.SanPhams
                                 select x;
@@ -30,10 +34,17 @@ namespace ECommerce.Areas.Admin.Controllers
 
             return View(searchproduct.ToList());
         }
-        public SanPhamsController(DataContext context)
+        public IActionResult SearchLoai(int id)
         {
-            _context = context;
+            var sanPham = _context.SanPhams
+                 .Include(s => s.Loai)
+                 .Include(s => s.NhaCungCap)
+                 .Include(s => s.ThuongHieu)
+                 .Include(s => s.TrangThaiSP)
+                 .Where(m => m.MaLoai.Equals(id));
+            return View(sanPham.ToList());
         }
+      
 
         // GET: Admin/SanPhams
         public async Task<IActionResult> Index()

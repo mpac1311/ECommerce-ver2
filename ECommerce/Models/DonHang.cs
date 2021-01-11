@@ -33,5 +33,7 @@ namespace ECommerce.Models
         [ForeignKey("PhiShip")]
         public int MaShip { get; set; }
         public PhiShip PhiShip { get; set; }
+        
+
     }
 }

@@ -1318,3 +1318,4 @@ C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Ra
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Details.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Edit.cshtml.g.cs
 C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TrangThaiSPs\Index.cshtml.g.cs
+C:\Users\Mi\Documents\GitHub\ECommerce-ver2\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SanPhams\SearchLoai.cshtml.g.cs

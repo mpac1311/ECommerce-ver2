@@ -54,6 +54,6 @@ namespace ECommerce.Models
         public ThuongHieu ThuongHieu { get; set; }
         public NhaCungCap NhaCungCap { get; set; }
         public TrangThaiSP TrangThaiSP { get; set; }
-        public ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; }
+        public ChiTietDonHang ChiTietDonHang { get; set; }
     }
 }
