@@ -37,7 +37,7 @@ namespace ECommerce.Areas.Admin.Controllers
                 return NotFound();
             }
 
-            var donHang = await _context.DonHangs
+            var donHang = await _context.DonHangs.Include(m=>m.TinhTrangDH)
                 .FirstOrDefaultAsync(m => m.MaDH == id);
             if (donHang == null)
             {
@@ -60,10 +60,12 @@ namespace ECommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT,MaShip")] DonHang donHang)
+        public async Task<IActionResult> Create([Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT")] DonHang donHang)
         {
             if (ModelState.IsValid)
             {
+                
+                donHang.NgayTaoDH = DateTime.Now;
                 _context.Add(donHang);
                 await _context.SaveChangesAsync();
                 var message = new MimeMessage();
@@ -82,8 +84,7 @@ namespace ECommerce.Areas.Admin.Controllers
                     client.Send(message);
                     client.Disconnect(true);
                 }
-                donHang.NgayTaoDH = DateTime.Now;
-
+               
             }
             
             return Redirect("/Users/Cart/Success");
@@ -112,7 +113,7 @@ namespace ECommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT,MaShip")] DonHang donHang)
+        public async Task<IActionResult> Edit(int id, [Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT")] DonHang donHang)
         {
             if (id != donHang.MaDH)
             {

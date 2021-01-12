@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerce.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20210112032226_initial")]
+    [Migration("20210112045910_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -161,9 +161,6 @@ namespace ECommerce.Migrations
                     b.Property<string>("KhuyenMaiMaKM")
                         .HasColumnType("nvarchar(450)");
 
-                    b.Property<int>("MaShip")
-                        .HasColumnType("int");
-
                     b.Property<int>("MaTT")
                         .HasColumnType("int");
 
@@ -182,8 +179,6 @@ namespace ECommerce.Migrations
                     b.HasKey("MaDH");
 
                     b.HasIndex("KhuyenMaiMaKM");
-
-                    b.HasIndex("MaShip");
 
                     b.HasIndex("TinhTrangDHMaTT");
 
@@ -431,15 +426,15 @@ namespace ECommerce.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "41b74c1a-560e-4dda-8961-d15b8818c8af",
-                            ConcurrencyStamp = "6b47439e-daeb-4d7a-bba6-f8a730d02668",
+                            Id = "aeb0f405-89f2-4252-a4e0-ec2f0b15ab5b",
+                            ConcurrencyStamp = "94f84fd3-33e3-4f1e-b7c4-af04336f9064",
                             Name = "Visitor",
                             NormalizedName = "VISITOR"
                         },
                         new
                         {
-                            Id = "f5545fd1-efdc-4297-820c-f472dd34ed51",
-                            ConcurrencyStamp = "46f170af-aa13-4267-ad6e-34acc9a2ad0c",
+                            Id = "19ed6ad0-631e-4ca3-8c56-55fe078e3c72",
+                            ConcurrencyStamp = "c2f7ed89-5b45-4816-8218-517ad79f92ba",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });
@@ -575,17 +570,9 @@ namespace ECommerce.Migrations
                         .WithMany("DonHangs")
                         .HasForeignKey("KhuyenMaiMaKM");
 
-                    b.HasOne("ECommerce.Models.PhiShip", "PhiShip")
-                        .WithMany("DonHangs")
-                        .HasForeignKey("MaShip")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("ECommerce.Models.TinhTrangDH", "TinhTrangDH")
                         .WithMany("DonHangs")
                         .HasForeignKey("TinhTrangDHMaTT");
-
-                    b.Navigation("PhiShip");
 
                     b.Navigation("TinhTrangDH");
                 });
@@ -700,11 +687,6 @@ namespace ECommerce.Migrations
             modelBuilder.Entity("ECommerce.Models.NhaCungCap", b =>
                 {
                     b.Navigation("sanPhams");
-                });
-
-            modelBuilder.Entity("ECommerce.Models.PhiShip", b =>
-                {
-                    b.Navigation("DonHangs");
                 });
 
             modelBuilder.Entity("ECommerce.Models.ThuongHieu", b =>

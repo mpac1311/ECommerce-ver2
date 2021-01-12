@@ -112,8 +112,9 @@ namespace ECommerce.Areas.Admin.Controllers
                 ViewData["MaTTSP"] = new SelectList(_context.TrangThaiSPs, "MaTTSP", "MaTTSP", sanPham.MaTTSP);
                 _context.Add(sanPham);
                 await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
-            return View(sanPham);
+            else return View(sanPham);
         }
 
         // GET: Admin/SanPhams/Edit/5

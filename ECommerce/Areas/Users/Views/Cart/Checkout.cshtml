@@ -3,7 +3,7 @@
     Layout = "~/Areas/Users/Views/_Layout.cshtml"; }
 
 
-@if (ViewBag.Cart.Count > 0)
+@if (ViewBag.Cart.Count != null)
 {
     decimal total = 0;
 <div class="row">

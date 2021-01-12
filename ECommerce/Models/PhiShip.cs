@@ -14,6 +14,5 @@ namespace ECommerce.Models
         public string TenPhiShip { get; set; }
         [Display(Name ="Giá Ship")]
         public int ShipPrice { get; set; }
-        public ICollection<DonHang> DonHangs { get; set; }
     }
 }

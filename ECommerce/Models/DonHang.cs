@@ -30,9 +30,7 @@ namespace ECommerce.Models
         [Display(Name = "Mã Tình Trạng")]
         public int MaTT { get; set; }
         public TinhTrangDH TinhTrangDH { get; set; }
-        [ForeignKey("PhiShip")]
-        public int MaShip { get; set; }
-        public PhiShip PhiShip { get; set; }
+        
         
 
     }

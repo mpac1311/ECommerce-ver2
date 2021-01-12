@@ -66,10 +66,7 @@
                             <input asp-for="GhiChuDH" class="form-control" />
                             <span asp-validation-for="GhiChuDH" class="text-danger"></span>
                         </div>
-                        <div class="form-group">
-                            <label asp-for="PhiShip.TenPhiShip" class="control-label"></label>
-                            <select asp-for="PhiShip.TenPhiShip" class="form-control" asp-items="ViewBag.TenPhiShip"></select>
-                        </div>
+
                         <div class="form-group">
                             <input type="submit" value="Đặt Hàng" class="btn btn-1" />
                             <button style="text-align:right;" asp-area="Users" asp-controller="SanPham" asp-action="Index" class="btn btn-1">Quay Lại</button>

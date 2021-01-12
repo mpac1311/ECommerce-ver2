@@ -51,7 +51,7 @@
     <a asp-controller="SanPham" asp-action="Index">Continue Shopping</a>*@
 <div id="page-content" class="single-page">
     <div class="container">
-        @if (ViewBag.Cart.Count > 0)
+        @if (ViewBag.Cart.Count != null)
         {
             decimal total = 0;
             <div class="row">
@@ -94,13 +94,14 @@
                         <h3 >Hóa Đơn</h3>
                         <table>
                             <tr>
-                                <td><h6>Tạm Tín</h6></td>
+                                <td><h6>Tạm Tính</h6></td>
                                 <td><h6>@total</h6></td>
                             </tr>
                             <tr>
                                 <td><h6>Phí Vận Chuyển</h6></td>
-                                <td><h6>0.00vnđ</h6></td>
+                                <td><h6>100000</h6></td>
                             </tr>
+                            total+=100000;
                             <tr style="border-top: 1px solid #333">
                                 <td><h5>Tổng Cộng</h5></td>
                                 <td><h5>@total</h5></td>

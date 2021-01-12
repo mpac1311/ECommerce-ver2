@@ -288,7 +288,6 @@ namespace ECommerce.Migrations
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     MaTT = table.Column<int>(type: "int", nullable: false),
                     TinhTrangDHMaTT = table.Column<int>(type: "int", nullable: true),
-                    MaShip = table.Column<int>(type: "int", nullable: false),
                     KhuyenMaiMaKM = table.Column<string>(type: "nvarchar(450)", nullable: true)
                 },
                 constraints: table =>
@@ -300,12 +299,6 @@ namespace ECommerce.Migrations
                         principalTable: "KhuyenMais",
                         principalColumn: "MaKM",
                         onDelete: ReferentialAction.Restrict);
-                    table.ForeignKey(
-                        name: "FK_DonHangs_PhiShip_MaShip",
-                        column: x => x.MaShip,
-                        principalTable: "PhiShip",
-                        principalColumn: "MaShip",
-                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_DonHangs_TinhTrangDH_TinhTrangDHMaTT",
                         column: x => x.TinhTrangDHMaTT,
@@ -409,12 +402,12 @@ namespace ECommerce.Migrations
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "41b74c1a-560e-4dda-8961-d15b8818c8af", "6b47439e-daeb-4d7a-bba6-f8a730d02668", "Visitor", "VISITOR" });
+                values: new object[] { "aeb0f405-89f2-4252-a4e0-ec2f0b15ab5b", "94f84fd3-33e3-4f1e-b7c4-af04336f9064", "Visitor", "VISITOR" });
 
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "f5545fd1-efdc-4297-820c-f472dd34ed51", "46f170af-aa13-4267-ad6e-34acc9a2ad0c", "Administrator", "ADMINISTRATOR" });
+                values: new object[] { "19ed6ad0-631e-4ca3-8c56-55fe078e3c72", "c2f7ed89-5b45-4816-8218-517ad79f92ba", "Administrator", "ADMINISTRATOR" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
@@ -459,11 +452,6 @@ namespace ECommerce.Migrations
                 name: "IX_DonHangs_KhuyenMaiMaKM",
                 table: "DonHangs",
                 column: "KhuyenMaiMaKM");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_DonHangs_MaShip",
-                table: "DonHangs",
-                column: "MaShip");
 
             migrationBuilder.CreateIndex(
                 name: "IX_DonHangs_TinhTrangDHMaTT",
@@ -519,6 +507,9 @@ namespace ECommerce.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
+                name: "PhiShip");
+
+            migrationBuilder.DropTable(
                 name: "productToCarts");
 
             migrationBuilder.DropTable(
@@ -553,9 +544,6 @@ namespace ECommerce.Migrations
 
             migrationBuilder.DropTable(
                 name: "KhuyenMais");
-
-            migrationBuilder.DropTable(
-                name: "PhiShip");
 
             migrationBuilder.DropTable(
                 name: "TinhTrangDH");
