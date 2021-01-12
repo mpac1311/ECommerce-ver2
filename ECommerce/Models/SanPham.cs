@@ -16,7 +16,7 @@ namespace ECommerce.Models
         public string TenSP { get; set; }
 
         [Display(Name = "Đơn giá")]
-        public decimal DonGia { get; set; }
+        public int DonGia { get; set; }
 
         [Display(Name = "Hình ảnh")]
         public string HinhAnh { get; set; }
@@ -30,8 +30,7 @@ namespace ECommerce.Models
         [Display(Name = "Số lượng")]
         public int SoLuong{ get; set; }
 
-        [Display(Name = "Số lượng tối thiểu")]
-        public int SoLuongMuaToiThieu { get; set; }
+        
 
         [ForeignKey("Loai")]
         [Display(Name = "Loại")]

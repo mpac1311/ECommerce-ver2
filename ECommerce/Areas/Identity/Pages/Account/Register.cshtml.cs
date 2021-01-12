@@ -48,14 +48,21 @@ namespace ECommerce.Areas.Identity.Pages.Account
         {
             [Display(Name = "First Name")] 
             public string FirstName { get; set; }
+            [Required]
             [Display(Name = "Last Name")]
             public string LastName { get; set; }
 
             [Display(Name = "Birthday")]
             public DateTime BirthDay { get; set; }
+            [Required]
+            [Display(Name = "Phone")]
+            public string Phone { get; set; }
 
             [Display(Name = "Address")]
             public string Address1 { get; set; }
+            [Display(Name = "District")]
+            public string District1 { get; set; }
+
 
             [Required]
             [EmailAddress]
@@ -93,8 +100,10 @@ namespace ECommerce.Areas.Identity.Pages.Account
                    Email = Input.Email,
                    FirstName=Input.FirstName,
                    LastName=Input.LastName,
-                   BirthDay=Input.BirthDay,
+                    Phone = Input.Phone,
+                    BirthDay =Input.BirthDay,
                    Address1=Input.Address1,
+                   District1 = Input.District1,
                 };
                 var result = await _userManager.CreateAsync(user, Input.Password);
 

@@ -19,24 +19,6 @@ namespace ECommerce.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("ChiTietDonHangSanPham", b =>
-                {
-                    b.Property<int>("SanPhamsMaSP")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ChiTietDonHangsMaDH")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ChiTietDonHangsMaSP")
-                        .HasColumnType("int");
-
-                    b.HasKey("SanPhamsMaSP", "ChiTietDonHangsMaDH", "ChiTietDonHangsMaSP");
-
-                    b.HasIndex("ChiTietDonHangsMaDH", "ChiTietDonHangsMaSP");
-
-                    b.ToTable("ChiTietDonHangSanPham");
-                });
-
             modelBuilder.Entity("ECommerce.Areas.Identity.Models.ApplicationUser", b =>
                 {
                     b.Property<string>("Id")
@@ -53,6 +35,9 @@ namespace ECommerce.Migrations
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("District1")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
@@ -83,6 +68,9 @@ namespace ECommerce.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("PasswordHash")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Phone")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PhoneNumber")
@@ -247,11 +235,11 @@ namespace ECommerce.Migrations
                     b.Property<string>("DiaChi")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("MaSoThue")
-                        .HasColumnType("int");
+                    b.Property<string>("MaSoThue")
+                        .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Sdt")
-                        .HasColumnType("int");
+                    b.Property<string>("Sdt")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TenNhaCC")
                         .HasColumnType("nvarchar(max)");
@@ -268,8 +256,8 @@ namespace ECommerce.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<decimal>("ShipPrice")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<int>("ShipPrice")
+                        .HasColumnType("int");
 
                     b.Property<string>("TenPhiShip")
                         .HasColumnType("nvarchar(max)");
@@ -286,11 +274,17 @@ namespace ECommerce.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
+                    b.Property<int?>("ChiTietDonHangMaDH")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("ChiTietDonHangMaSP")
+                        .HasColumnType("int");
+
                     b.Property<string>("ChiTietSP")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<decimal>("DonGia")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<int>("DonGia")
+                        .HasColumnType("int");
 
                     b.Property<string>("HinhAnh")
                         .HasColumnType("nvarchar(max)");
@@ -310,9 +304,6 @@ namespace ECommerce.Migrations
                     b.Property<int>("SoLuong")
                         .HasColumnType("int");
 
-                    b.Property<int>("SoLuongMuaToiThieu")
-                        .HasColumnType("int");
-
                     b.Property<string>("TenSP")
                         .HasColumnType("nvarchar(max)");
 
@@ -328,6 +319,8 @@ namespace ECommerce.Migrations
                     b.HasIndex("MaTH");
 
                     b.HasIndex("MaTTSP");
+
+                    b.HasIndex("ChiTietDonHangMaDH", "ChiTietDonHangMaSP");
 
                     b.ToTable("SanPhams");
                 });
@@ -436,15 +429,15 @@ namespace ECommerce.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "3b90316e-4de4-4119-8ae1-c5e121e95c18",
-                            ConcurrencyStamp = "cc20f481-7f53-4d5d-9030-e0a9b86079c4",
+                            Id = "41b74c1a-560e-4dda-8961-d15b8818c8af",
+                            ConcurrencyStamp = "6b47439e-daeb-4d7a-bba6-f8a730d02668",
                             Name = "Visitor",
                             NormalizedName = "VISITOR"
                         },
                         new
                         {
-                            Id = "2bfc2c9d-ba52-47fa-96fc-2e428aaaf0f9",
-                            ConcurrencyStamp = "7280b7ae-8e52-4bda-bbb8-f9e50ca395d6",
+                            Id = "f5545fd1-efdc-4297-820c-f472dd34ed51",
+                            ConcurrencyStamp = "46f170af-aa13-4267-ad6e-34acc9a2ad0c",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });
@@ -554,21 +547,6 @@ namespace ECommerce.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
-            modelBuilder.Entity("ChiTietDonHangSanPham", b =>
-                {
-                    b.HasOne("ECommerce.Models.SanPham", null)
-                        .WithMany()
-                        .HasForeignKey("SanPhamsMaSP")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("ECommerce.Models.ChiTietDonHang", null)
-                        .WithMany()
-                        .HasForeignKey("ChiTietDonHangsMaDH", "ChiTietDonHangsMaSP")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("ECommerce.Data.ProductToCart", b =>
                 {
                     b.HasOne("ECommerce.Models.SanPham", "SanPham")
@@ -636,6 +614,12 @@ namespace ECommerce.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("ECommerce.Models.ChiTietDonHang", "ChiTietDonHang")
+                        .WithMany("SanPhams")
+                        .HasForeignKey("ChiTietDonHangMaDH", "ChiTietDonHangMaSP");
+
+                    b.Navigation("ChiTietDonHang");
+
                     b.Navigation("Loai");
 
                     b.Navigation("NhaCungCap");
@@ -694,6 +678,11 @@ namespace ECommerce.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ECommerce.Models.ChiTietDonHang", b =>
+                {
+                    b.Navigation("SanPhams");
                 });
 
             modelBuilder.Entity("ECommerce.Models.KhuyenMai", b =>

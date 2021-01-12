@@ -112,7 +112,7 @@ namespace ECommerce.Areas.Admin.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT")] DonHang donHang)
+        public async Task<IActionResult> Edit(int id, [Bind("MaDH,NgayTaoDH,GhiChuDH,TenKH,DiaChiNhan,SoDienThoai,Email,MaTT,MaShip")] DonHang donHang)
         {
             if (id != donHang.MaDH)
             {

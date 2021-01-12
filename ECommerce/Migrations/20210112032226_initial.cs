@@ -28,8 +28,10 @@ namespace ECommerce.Migrations
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Phone = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     BirthDay = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Address1 = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    District1 = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     UserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
                     Email = table.Column<string>(type: "nvarchar(256)", maxLength: 256, nullable: true),
@@ -86,8 +88,8 @@ namespace ECommerce.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     TenNhaCC = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     DiaChi = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MaSoThue = table.Column<int>(type: "int", nullable: false),
-                    Sdt = table.Column<int>(type: "int", nullable: false)
+                    MaSoThue = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Sdt = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -101,7 +103,7 @@ namespace ECommerce.Migrations
                     MaShip = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     TenPhiShip = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    ShipPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    ShipPrice = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -313,26 +315,54 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "ChiTietDonHangs",
+                columns: table => new
+                {
+                    MaDH = table.Column<int>(type: "int", nullable: false),
+                    MaSP = table.Column<int>(type: "int", nullable: false),
+                    SoLuongSP = table.Column<int>(type: "int", nullable: false),
+                    SotienSP = table.Column<int>(type: "int", nullable: false),
+                    TongTienDH = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ChiTietDonHangs", x => new { x.MaDH, x.MaSP });
+                    table.ForeignKey(
+                        name: "FK_ChiTietDonHangs_DonHangs_MaDH",
+                        column: x => x.MaDH,
+                        principalTable: "DonHangs",
+                        principalColumn: "MaDH",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "SanPhams",
                 columns: table => new
                 {
                     MaSP = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     TenSP = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DonGia = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    DonGia = table.Column<int>(type: "int", nullable: false),
                     HinhAnh = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Video = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     ChiTietSP = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     SoLuong = table.Column<int>(type: "int", nullable: false),
-                    SoLuongMuaToiThieu = table.Column<int>(type: "int", nullable: false),
                     MaLoai = table.Column<int>(type: "int", nullable: false),
                     MaTH = table.Column<int>(type: "int", nullable: false),
                     MaNhaCC = table.Column<int>(type: "int", nullable: false),
-                    MaTTSP = table.Column<int>(type: "int", nullable: false)
+                    MaTTSP = table.Column<int>(type: "int", nullable: false),
+                    ChiTietDonHangMaDH = table.Column<int>(type: "int", nullable: true),
+                    ChiTietDonHangMaSP = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_SanPhams", x => x.MaSP);
+                    table.ForeignKey(
+                        name: "FK_SanPhams_ChiTietDonHangs_ChiTietDonHangMaDH_ChiTietDonHangMaSP",
+                        columns: x => new { x.ChiTietDonHangMaDH, x.ChiTietDonHangMaSP },
+                        principalTable: "ChiTietDonHangs",
+                        principalColumns: new[] { "MaDH", "MaSP" },
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_SanPhams_Loais_MaLoai",
                         column: x => x.MaLoai,
@@ -360,27 +390,6 @@ namespace ECommerce.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "ChiTietDonHangs",
-                columns: table => new
-                {
-                    MaDH = table.Column<int>(type: "int", nullable: false),
-                    MaSP = table.Column<int>(type: "int", nullable: false),
-                    SoLuongSP = table.Column<int>(type: "int", nullable: false),
-                    SotienSP = table.Column<int>(type: "int", nullable: false),
-                    TongTienDH = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_ChiTietDonHangs", x => new { x.MaDH, x.MaSP });
-                    table.ForeignKey(
-                        name: "FK_ChiTietDonHangs_DonHangs_MaDH",
-                        column: x => x.MaDH,
-                        principalTable: "DonHangs",
-                        principalColumn: "MaDH",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "productToCarts",
                 columns: table => new
                 {
@@ -397,40 +406,15 @@ namespace ECommerce.Migrations
                         onDelete: ReferentialAction.Restrict);
                 });
 
-            migrationBuilder.CreateTable(
-                name: "ChiTietDonHangSanPham",
-                columns: table => new
-                {
-                    SanPhamsMaSP = table.Column<int>(type: "int", nullable: false),
-                    ChiTietDonHangsMaDH = table.Column<int>(type: "int", nullable: false),
-                    ChiTietDonHangsMaSP = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_ChiTietDonHangSanPham", x => new { x.SanPhamsMaSP, x.ChiTietDonHangsMaDH, x.ChiTietDonHangsMaSP });
-                    table.ForeignKey(
-                        name: "FK_ChiTietDonHangSanPham_ChiTietDonHangs_ChiTietDonHangsMaDH_ChiTietDonHangsMaSP",
-                        columns: x => new { x.ChiTietDonHangsMaDH, x.ChiTietDonHangsMaSP },
-                        principalTable: "ChiTietDonHangs",
-                        principalColumns: new[] { "MaDH", "MaSP" },
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_ChiTietDonHangSanPham_SanPhams_SanPhamsMaSP",
-                        column: x => x.SanPhamsMaSP,
-                        principalTable: "SanPhams",
-                        principalColumn: "MaSP",
-                        onDelete: ReferentialAction.Cascade);
-                });
+            migrationBuilder.InsertData(
+                table: "AspNetRoles",
+                columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
+                values: new object[] { "41b74c1a-560e-4dda-8961-d15b8818c8af", "6b47439e-daeb-4d7a-bba6-f8a730d02668", "Visitor", "VISITOR" });
 
             migrationBuilder.InsertData(
                 table: "AspNetRoles",
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "3b90316e-4de4-4119-8ae1-c5e121e95c18", "cc20f481-7f53-4d5d-9030-e0a9b86079c4", "Visitor", "VISITOR" });
-
-            migrationBuilder.InsertData(
-                table: "AspNetRoles",
-                columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
-                values: new object[] { "2bfc2c9d-ba52-47fa-96fc-2e428aaaf0f9", "7280b7ae-8e52-4bda-bbb8-f9e50ca395d6", "Administrator", "ADMINISTRATOR" });
+                values: new object[] { "f5545fd1-efdc-4297-820c-f472dd34ed51", "46f170af-aa13-4267-ad6e-34acc9a2ad0c", "Administrator", "ADMINISTRATOR" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
@@ -472,11 +456,6 @@ namespace ECommerce.Migrations
                 filter: "[NormalizedUserName] IS NOT NULL");
 
             migrationBuilder.CreateIndex(
-                name: "IX_ChiTietDonHangSanPham_ChiTietDonHangsMaDH_ChiTietDonHangsMaSP",
-                table: "ChiTietDonHangSanPham",
-                columns: new[] { "ChiTietDonHangsMaDH", "ChiTietDonHangsMaSP" });
-
-            migrationBuilder.CreateIndex(
                 name: "IX_DonHangs_KhuyenMaiMaKM",
                 table: "DonHangs",
                 column: "KhuyenMaiMaKM");
@@ -495,6 +474,11 @@ namespace ECommerce.Migrations
                 name: "IX_productToCarts_SanPhamMaSP",
                 table: "productToCarts",
                 column: "SanPhamMaSP");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_SanPhams_ChiTietDonHangMaDH_ChiTietDonHangMaSP",
+                table: "SanPhams",
+                columns: new[] { "ChiTietDonHangMaDH", "ChiTietDonHangMaSP" });
 
             migrationBuilder.CreateIndex(
                 name: "IX_SanPhams_MaLoai",
@@ -535,9 +519,6 @@ namespace ECommerce.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "ChiTietDonHangSanPham");
-
-            migrationBuilder.DropTable(
                 name: "productToCarts");
 
             migrationBuilder.DropTable(
@@ -550,13 +531,10 @@ namespace ECommerce.Migrations
                 name: "AspNetUsers");
 
             migrationBuilder.DropTable(
-                name: "ChiTietDonHangs");
-
-            migrationBuilder.DropTable(
                 name: "SanPhams");
 
             migrationBuilder.DropTable(
-                name: "DonHangs");
+                name: "ChiTietDonHangs");
 
             migrationBuilder.DropTable(
                 name: "Loais");
@@ -569,6 +547,9 @@ namespace ECommerce.Migrations
 
             migrationBuilder.DropTable(
                 name: "TrangThaiSPs");
+
+            migrationBuilder.DropTable(
+                name: "DonHangs");
 
             migrationBuilder.DropTable(
                 name: "KhuyenMais");

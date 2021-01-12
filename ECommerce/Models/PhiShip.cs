@@ -13,7 +13,7 @@ namespace ECommerce.Models
         [Display(Name = "Tên Phi Ship")]
         public string TenPhiShip { get; set; }
         [Display(Name ="Giá Ship")]
-        public decimal ShipPrice { get; set; }
+        public int ShipPrice { get; set; }
         public ICollection<DonHang> DonHangs { get; set; }
     }
 }
